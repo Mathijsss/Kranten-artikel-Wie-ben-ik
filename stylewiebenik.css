@@ -1,0 +1,9 @@
+body{ background-color: lightgrey; }
+
+p{color:red;}
+
+h2{color:red;}
+p3{color:black;}
+
+img{float:right;
+	border-color: red;}
